@@ -1,0 +1,433 @@
+/*
+====================================
+Medium Screen - Others
+====================================
+*/
+@media screen and (min-width: 992px) and (max-width: 1200px) {
+
+
+.discount-left h2 {
+    font-size: 46px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+/*
+====================================
+Small Screen - Tablate
+====================================
+*/
+@media screen and (min-width: 768px) and (max-width: 991px) {
+
+.hero-text h2 {
+    font-size: 45px;
+}
+
+.hero {
+    padding: 108px 0;
+}
+
+.price-heading h2 {
+    font-size: 35px;
+    margin-bottom: 30px;
+}
+
+.pb-one img {
+	width: 100%;
+}
+
+.pb-one p {
+    font-size: 20px;
+}
+
+.discount-left h2 {
+    font-size: 34px; 
+}
+
+.perticipate-heading h2 {
+    font-size: 35px;
+}
+
+.perlist-one h4 {
+    font-size: 26px;
+}
+
+.maxi-heading h2 {
+    font-size: 35px;
+}
+
+.footer-middle ul {
+    margin-left: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+/*
+====================================
+Small Screen - Mobile
+====================================
+*/
+@media screen and (min-width: 576px) and (max-width: 767px) {	
+
+
+.header-left a img {
+    width: 55px;
+}
+
+.header-right a {
+    padding: 6px 22px;
+    font-size: 17px;
+}
+
+.hero-text h2 {
+    font-size: 30px;
+}
+
+.hreo-code {
+    margin-top: 20px;
+}
+
+.hreo-code input {
+    padding: 9px 18px;
+    font-size: 12px;
+    width: 245px;
+}
+
+.hreo-code button {
+    font-size: 14px;
+    padding: 7px 24px;
+    margin-top: 12px;
+    margin-left: 0;
+}
+
+.hero {
+    padding: 65px 0;
+    background-image: url(../img/shbg.png);
+}
+
+.price {
+    padding: 30px 0;
+    padding-bottom: 0;
+    background-image: url(../img/l2.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
+}
+
+.price-heading h2 {
+    font-size: 25px;
+    margin-bottom: 25px;
+}
+
+.pb-one img {
+    width: 64%;
+    margin-bottom: 8px;
+}
+
+.pb-one p {
+    font-size: 20px;
+    margin-bottom: 35px;
+}
+
+.discount-right img {
+	display: block;
+	width: 64%;
+	margin: auto;
+}
+
+.discount {
+    padding-bottom: 40px;
+    background-image: url(../img/l2.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
+}
+
+.perticipate-heading h2 {
+    font-size: 24px;
+}
+
+.perlist-one h4 {
+    font-size: 20px;
+}
+
+.perlist-one p {
+    font-size: 14px;
+    margin-bottom: 18px;
+}
+
+.perticipate {
+	background-image: url(../img/shuti.png);
+	padding: 40px 0px;
+}
+
+.maxi {
+    padding: 30px 0; 
+    background-image: url(../img/l2.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
+}
+
+.maxi-heading h2 {
+	font-size: 25px;
+	margin-bottom: 30px;
+}
+
+.maxi-content img {
+    display: block;
+    width: 65%;
+}
+
+.footer-wrapper {
+	flex-direction: column;
+}
+
+.footer-middle {
+	order: 1;
+}
+
+.footer-right {
+	order: 2;
+}
+
+.footer-left {
+	order: 3;
+}
+
+.footer-middle ul {
+	margin-left: 0;
+}
+
+.footer-middle ul li a {
+	font-size: 18px;
+}
+
+.footer-right ul {
+	margin: 20px 0;
+}
+
+.footer-right ul li a {
+	font-size: 12px;
+}
+
+.footer-left p {
+	font-size: 12px;
+}
+
+
+}
+
+/*
+====================================
+Xtra Small Screen - Small Mobile
+====================================
+*/
+@media screen and (max-width: 576px) {
+
+
+.header-left a img {
+    width: 80px;
+}
+
+.header-right a {
+    padding: 6px 22px;
+    font-size: 17px;
+}
+
+.hero-text h2 {
+    font-size: 30px;
+}
+
+.hreo-code {
+    margin-top: 20px;
+}
+
+.hreo-code input {
+    padding: 9px 18px;
+    font-size: 12px;
+    width: 245px;
+}
+
+.hreo-code button {
+    font-size: 14px;
+    padding: 7px 24px;
+    margin-top: 12px;
+    margin-left: 0;
+}
+
+.hero {
+    padding: 65px 0;
+    background-image: url(../img/shbg.png);
+}
+
+.price {
+    padding: 30px 0;
+    padding-bottom: 0;
+    background-image: url(../img/l2.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
+}
+
+.price-heading h2 {
+    font-size: 25px;
+    margin-bottom: 25px;
+}
+
+.pb-one img {
+    width: 64%;
+    margin-bottom: 8px;
+}
+
+.pb-one p {
+    font-size: 20px;
+    margin-bottom: 35px;
+}
+
+.discount-right img {
+	display: block;
+	width: 64%;
+	margin: auto;
+}
+
+.discount {
+    padding-bottom: 40px;
+    background-image: url(../img/l2.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
+}
+
+.perticipate {
+    display: none;
+}
+
+.perticipate-heading h2 {
+    font-size: 24px;
+}
+
+.perlist-one h4 {
+    font-size: 20px;
+}
+
+.perlist-one p {
+    font-size: 14px;
+    margin-bottom: 18px;
+}
+
+.perticipate {
+	background-image: url(../img/shuti.png);
+	padding: 40px 0px;
+}
+
+.maxi {
+    padding: 30px 0; 
+    background-image: url(../img/l2.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
+}
+
+.maxi-heading h2 {
+	font-size: 25px;
+	margin-bottom: 30px;
+}
+
+.maxi-content img {
+    display: block;
+    width: 65%;
+}
+
+.footer-wrapper {
+	flex-direction: column;
+}
+
+.footer-middle {
+	order: 1;
+}
+
+.footer-right {
+	order: 2;
+}
+
+.footer-left {
+	order: 3;
+}
+
+.footer-middle ul {
+	margin-left: 0;
+}
+
+.footer-middle ul li a {
+	font-size: 18px;
+}
+
+.footer-right ul {
+	margin: 20px 0;
+}
+
+.footer-right ul li a {
+	font-size: 12px;
+}
+
+.footer-left p {
+	font-size: 12px;
+}
+
+
+}

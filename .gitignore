@@ -1,0 +1,7 @@
+# ---> Laravel
+/.vscode
+/bootstrap/compiled.php
+/database/*.sqlite
+/node_modules
+/vendor
+

@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
+    @include('includes.welcome-header')
+    <body>
+        @include('includes.welcome-navbar')
+        <div class="flex-grow">
+            @yield('content')
+        </div>
+        @include('includes.welcome-footer')
+    </body>
+</html>

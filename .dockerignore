@@ -1,0 +1,4 @@
+deploy.yaml
+Dockerfile
+Jenkinsfile
+test-gogs.sh
